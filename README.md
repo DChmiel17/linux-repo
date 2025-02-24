@@ -4,8 +4,6 @@
 - It was created for a linux tutorial.
 - Include basic git commands.
 
-<br>
-![Sample GitHub Image](https://raw.githubusercontent.com/github/explore/main/topics/github/github.png)
+<p><img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="GitHub Logo"></p>
 
-<br>
 [GitHub](https://github.com)
